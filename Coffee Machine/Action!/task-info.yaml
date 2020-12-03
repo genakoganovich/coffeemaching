@@ -400,4 +400,7 @@ files:
   learner_created: false
 feedback_link: https://hyperskill.org/projects/33/stages/178/implement
 status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 03 Dec 2020 20:04:34 UTC
 record: 2
